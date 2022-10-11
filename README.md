@@ -1,5 +1,6 @@
 # chat_datingapp
  A Dating Chat App UI implementation in flutter.
-PranavMlk
-
-![alt text](https://raw.githubusercontent.com/tayormi/Flutter-DatingChatApp-UIChallenge/master/media/chat-app.gif)
+ 
+ authored by PranavMlk
+ 
+ flutter version (channel stable 3.3.3)
